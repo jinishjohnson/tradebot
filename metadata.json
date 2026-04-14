@@ -1,0 +1,6 @@
+{
+  "name": "TradeMind AI",
+  "description": "An intelligent stock trading assistant that analyzes market data and executes trades through a chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chat", "Market Analysis", "Trading Simulation"]
+}
